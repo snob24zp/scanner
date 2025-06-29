@@ -4,3 +4,6 @@ Cannot run program "make" (in directory "D:\user\PROJECT\scaner\Infineon-CyStrea
 
 Error: Program "make" not found in PATH
 PATH=[D:/Program Files (x86)/Cypress/EZ-USB FX3 SDK/1.3/Eclipse/jre/bin/client;D:/Program Files (x86)/Cypress/EZ-USB FX3 SDK/1.3/Eclipse/jre/bin;D:/Program Files (x86)/Cypress/EZ-USB FX3 SDK/1.3/Eclipse/jre/lib/i386;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\i5\AppData\Local\Programs\Python\Python313\;C:\Users\i5\AppData\Local\Programs\Python\Python313\Scripts;;D:\Program Files (x86)\Cypress\EZ-USB FX3 SDK\1.3\util\elf2img\;D:\Program Files (x86)\Cypress\EZ-USB FX3 SDK\1.3\ARM GCC\bin\;C:\Users\i5\AppData\Local\Programs\Python\Launcher\;C:\Users\i5\AppData\Local\Microsoft\WindowsApps;C:\Users\i5\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\i5\AppData\Local\gitkraken\bin;C:\Users\i5\.dotnet\tools;C:\Users\i5\AppData\Local\Programs\Python\Python313\;C:\Users\i5\AppData\Local\Programs\Python\Python313\Scripts;;D:\Program Files (x86)\Cypress\EZ-USB FX3 SDK\1.3\Eclipse;]
+
+13:48:04 Build Finished (took 19ms)
+
